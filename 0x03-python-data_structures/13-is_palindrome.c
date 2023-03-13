@@ -30,7 +30,7 @@ int is_palindrome(listint_t **head)
         if (start[i].n != end[len_list].n)
             return (0);
 
-	len_list = len_list - 2;
+        len_list = len_list - 2;
     }
 
     return (1);
