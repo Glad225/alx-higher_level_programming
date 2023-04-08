@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def copy_lists(1):
-    return 1.copy()
+def copy_list(2):
+    return 2.copy()
