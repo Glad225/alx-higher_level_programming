@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The lookup function container
+Function that return the list of a lookup function
 """
 
 
