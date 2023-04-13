@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """
-Function that return the list of a lookup function
+The lookup function container
 """
 
 
-def lookup(object_to_inspect):
+def lookup(obj):
     """returns a list of available attributes and methods of an object"""
     return dir(obj)
